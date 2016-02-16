@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary awesome removal steps
+# after package is uninstalled.
+#
+
+echo "awesome has been uninstalled!"
+
+exit 0
